@@ -2,3 +2,32 @@
 @import url(/vendor/normalize.css);
 
 @import url(/blocks/header.css);
+@import url(/blocks/footer.css);
+@import url(/blocks/lead.css);
+@import url(/blocks/page.css);
+
+@media screen and (max-width: 1024px) {
+  .header__title {
+    font-size: 56px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .page__container {
+    padding: 0 24px;
+  }
+
+  .header__title {
+    font-size: 42px;
+  }
+
+  .header__subtitle {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .header__title {
+    font-size: 32px;
+  }
+}
