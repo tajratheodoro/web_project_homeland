@@ -1,12 +1,12 @@
 .footer {
   padding: 64px 0;
   display: flex;
-  justify-content: center; /* Centraliza o texto */
+  justify-content: center;
 }
 
 .footer__copyright {
   font-size: 14px;
   color: #ffffff;
-  opacity: 0.5; /* Texto parece mais apagado no design */
+  opacity: 0.5;
   margin: 0;
 }
