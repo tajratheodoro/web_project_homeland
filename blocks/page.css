@@ -1,0 +1,15 @@
+.page {
+  background-color: #2a2c2f;
+  font-family: "Inter", Arial, sans-serif;
+  color: #ffffff;
+  margin: 0 auto;
+  padding: 0;
+  min-width: 320px;
+  -webkit-font-smoothing: antialiased;
+}
+
+.page__container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 48px;
+}

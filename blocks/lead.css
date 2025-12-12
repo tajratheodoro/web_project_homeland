@@ -1,0 +1,33 @@
+.lead {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 720px;
+  margin: 64px auto 0;
+}
+
+.lead__title {
+  font-size: 32px;
+  line-height: 1.15;
+  font-weight: 900;
+  margin: 0 0 32px 0;
+}
+
+.lead__quote {
+  font-size: 24px;
+  line-height: 1.4;
+  margin: 0 0 16px 0;
+  font-style: italic;
+}
+
+.lead__author {
+  font-size: 20px;
+  align-self: flex-end;
+  margin: 0 0 40px 0;
+}
+
+.lead__text {
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 0;
+}
