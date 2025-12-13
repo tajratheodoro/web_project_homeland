@@ -2,7 +2,6 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  width: 100%;
   max-width: 984px;
   max-height: 482px;
   margin: 64px auto 0;
