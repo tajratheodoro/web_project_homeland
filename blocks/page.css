@@ -30,3 +30,9 @@ body {
     padding: 0 16px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .page__container {
+    padding: 0 24px;
+  }
+}
