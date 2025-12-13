@@ -9,6 +9,7 @@
 
 .lead__title {
   font-size: 54px;
+  font-family: "Inter", sans-serif;
   line-height: 1.15;
   font-weight: 900;
   max-width: 830px;
@@ -18,6 +19,7 @@
 
 .lead__quote {
   font-size: 24px;
+  font-family: "Inter", sans-serif;
   line-height: 1.42;
   font-weight: 400;
   max-width: 738px;
@@ -27,6 +29,7 @@
 
 .lead__author {
   font-size: 24px;
+  font-family: "Inter", sans-serif;
   width: 100%;
   max-width: 732px;
   max-height: 34px;

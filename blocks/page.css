@@ -16,12 +16,12 @@
 
 @media screen and (max-width: 768px) {
   .page__container {
-    padding: 0 24px; /* Margem lateral menor em tablets */
+    padding: 0 24px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .page__container {
-    padding: 0 16px; /* Margem lateral mínima em celulares */
+    padding: 0 16px;
   }
 }
