@@ -3,18 +3,8 @@
   flex-direction: column;
   align-items: center;
   padding-top: 48px;
-}
-
-.header__logo {
-  width: 146px;
-  margin-bottom: 20px;
-}
-
-.header__logo__subtitle {
-  font-size: 14px;
-  text-transform: uppercase;
-  margin: 0 0 40px 0;
-  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .header__title {
@@ -27,9 +17,11 @@
 }
 
 .header__subtitle {
-  font-size: 18px;
+  font-size: 30px;
   text-align: center;
   margin: 0 0 64px 0;
+  max-width: 720px;
+  height: 72px;
 }
 
 .header__image {
