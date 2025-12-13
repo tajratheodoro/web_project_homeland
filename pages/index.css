@@ -1,5 +1,5 @@
-@import url(/vendor/fonts.css);
 @import url(/vendor/normalize.css);
+@import url(/vendor/fonts.css);
 
 @import url(/blocks/page.css);
 @import url(/blocks/logo.css);
@@ -31,18 +31,4 @@
   .header__title {
     font-size: 32px;
   }
-}
-
-@font-face {
-  font-family: "Inter";
-  src: url("./fonts/Inter-Regular.woff2") format("woff2");
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Inter";
-  src: url("./fonts/Inter-Black.woff2") format("woff2");
-  font-weight: 900;
-  font-style: normal;
 }
